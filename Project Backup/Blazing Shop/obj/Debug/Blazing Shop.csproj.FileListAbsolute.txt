@@ -1,0 +1,366 @@
+F:\Zensar\Blazing Shop\bin\Blazing Shop.dll.config
+F:\Zensar\Blazing Shop\bin\Blazing Shop.dll
+F:\Zensar\Blazing Shop\bin\Blazing Shop.pdb
+F:\Zensar\Blazing Shop\bin\roslyn\csc.exe
+F:\Zensar\Blazing Shop\bin\roslyn\csc.exe.config
+F:\Zensar\Blazing Shop\bin\roslyn\csc.rsp
+F:\Zensar\Blazing Shop\bin\roslyn\csi.exe
+F:\Zensar\Blazing Shop\bin\roslyn\csi.exe.config
+F:\Zensar\Blazing Shop\bin\roslyn\csi.rsp
+F:\Zensar\Blazing Shop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Zensar\Blazing Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Zensar\Blazing Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Zensar\Blazing Shop\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Zensar\Blazing Shop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Zensar\Blazing Shop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Zensar\Blazing Shop\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Zensar\Blazing Shop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Zensar\Blazing Shop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Zensar\Blazing Shop\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Zensar\Blazing Shop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Zensar\Blazing Shop\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Zensar\Blazing Shop\bin\roslyn\System.AppContext.dll
+F:\Zensar\Blazing Shop\bin\roslyn\System.Collections.Immutable.dll
+F:\Zensar\Blazing Shop\bin\roslyn\System.Console.dll
+F:\Zensar\Blazing Shop\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Zensar\Blazing Shop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Zensar\Blazing Shop\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Zensar\Blazing Shop\bin\roslyn\System.Globalization.Calendars.dll
+F:\Zensar\Blazing Shop\bin\roslyn\System.IO.Compression.dll
+F:\Zensar\Blazing Shop\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Zensar\Blazing Shop\bin\roslyn\System.IO.FileSystem.dll
+F:\Zensar\Blazing Shop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Zensar\Blazing Shop\bin\roslyn\System.Net.Http.dll
+F:\Zensar\Blazing Shop\bin\roslyn\System.Net.Sockets.dll
+F:\Zensar\Blazing Shop\bin\roslyn\System.Reflection.Metadata.dll
+F:\Zensar\Blazing Shop\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Zensar\Blazing Shop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Zensar\Blazing Shop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Zensar\Blazing Shop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Zensar\Blazing Shop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Zensar\Blazing Shop\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Zensar\Blazing Shop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Zensar\Blazing Shop\bin\roslyn\System.ValueTuple.dll
+F:\Zensar\Blazing Shop\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Zensar\Blazing Shop\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Zensar\Blazing Shop\bin\roslyn\System.Xml.XPath.dll
+F:\Zensar\Blazing Shop\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Zensar\Blazing Shop\bin\roslyn\vbc.exe
+F:\Zensar\Blazing Shop\bin\roslyn\vbc.exe.config
+F:\Zensar\Blazing Shop\bin\roslyn\vbc.rsp
+F:\Zensar\Blazing Shop\bin\roslyn\VBCSCompiler.exe
+F:\Zensar\Blazing Shop\bin\roslyn\VBCSCompiler.exe.config
+F:\Zensar\Blazing Shop\bin\Antlr3.Runtime.dll
+F:\Zensar\Blazing Shop\bin\EntityFramework.dll
+F:\Zensar\Blazing Shop\bin\EntityFramework.SqlServer.dll
+F:\Zensar\Blazing Shop\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Zensar\Blazing Shop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Zensar\Blazing Shop\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Zensar\Blazing Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Zensar\Blazing Shop\bin\Microsoft.Owin.dll
+F:\Zensar\Blazing Shop\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Zensar\Blazing Shop\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Zensar\Blazing Shop\bin\Microsoft.Owin.Security.dll
+F:\Zensar\Blazing Shop\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Zensar\Blazing Shop\bin\Microsoft.Owin.Security.Google.dll
+F:\Zensar\Blazing Shop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Zensar\Blazing Shop\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Zensar\Blazing Shop\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Zensar\Blazing Shop\bin\Microsoft.Web.Infrastructure.dll
+F:\Zensar\Blazing Shop\bin\Newtonsoft.Json.dll
+F:\Zensar\Blazing Shop\bin\Owin.dll
+F:\Zensar\Blazing Shop\bin\System.Web.Helpers.dll
+F:\Zensar\Blazing Shop\bin\System.Web.Mvc.dll
+F:\Zensar\Blazing Shop\bin\System.Web.Optimization.dll
+F:\Zensar\Blazing Shop\bin\System.Web.Razor.dll
+F:\Zensar\Blazing Shop\bin\System.Web.WebPages.Deployment.dll
+F:\Zensar\Blazing Shop\bin\System.Web.WebPages.dll
+F:\Zensar\Blazing Shop\bin\System.Web.WebPages.Razor.dll
+F:\Zensar\Blazing Shop\bin\WebGrease.dll
+F:\Zensar\Blazing Shop\bin\System.Web.Helpers.xml
+F:\Zensar\Blazing Shop\bin\System.Web.Mvc.xml
+F:\Zensar\Blazing Shop\bin\System.Web.Optimization.xml
+F:\Zensar\Blazing Shop\bin\System.Web.Razor.xml
+F:\Zensar\Blazing Shop\bin\System.Web.WebPages.xml
+F:\Zensar\Blazing Shop\bin\System.Web.WebPages.Deployment.xml
+F:\Zensar\Blazing Shop\bin\System.Web.WebPages.Razor.xml
+F:\Zensar\Blazing Shop\bin\Newtonsoft.Json.xml
+F:\Zensar\Blazing Shop\bin\Antlr3.Runtime.pdb
+F:\Zensar\Blazing Shop\bin\EntityFramework.xml
+F:\Zensar\Blazing Shop\bin\EntityFramework.SqlServer.xml
+F:\Zensar\Blazing Shop\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Zensar\Blazing Shop\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Zensar\Blazing Shop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Zensar\Blazing Shop\bin\Microsoft.Owin.xml
+F:\Zensar\Blazing Shop\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Zensar\Blazing Shop\bin\Microsoft.Owin.Security.xml
+F:\Zensar\Blazing Shop\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Zensar\Blazing Shop\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Zensar\Blazing Shop\bin\Microsoft.Owin.Security.Google.xml
+F:\Zensar\Blazing Shop\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Zensar\Blazing Shop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Zensar\Blazing Shop\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Zensar\Blazing Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Zensar\Blazing Shop\obj\Debug\Blazing Shop.csprojAssemblyReference.cache
+F:\Zensar\Blazing Shop\obj\Debug\Blazing Shop.csproj.CoreCompileInputs.cache
+F:\Zensar\Blazing Shop\obj\Debug\Blazing Shop.csproj.CopyComplete
+F:\Zensar\Blazing Shop\obj\Debug\Blazing Shop.dll
+F:\Zensar\Blazing Shop\obj\Debug\Blazing Shop.pdb
+F:\Zensar\Blazing Shop\obj\Debug\Blazing_Shop.Migrations.addingcategory.resources
+F:\Zensar\Blazing Shop\obj\Debug\Blazing Shop.csproj.GenerateResource.cache
+F:\Zensar\Blazing Shop\obj\Debug\Blazing_Shop.Migrations.addingproducts.resources
+F:\Zensar\Blazing Shop\obj\Debug\Blazing_Shop.Migrations.addingproductss.resources
+F:\Zensar\Blazing Shop\obj\Debug\Blazing_Shop.Migrations.addingproductsss.resources
+F:\Zensar\Blazing Shop\obj\Debug\Blazing_Shop.Migrations.addAppointment.resources
+F:\Zensar\Blazing Shop\obj\Debug\Blazing_Shop.Migrations.empty.resources
+F:\Zensar\Blazing Shop\bin\System.Net.Http.Formatting.dll
+F:\Zensar\Blazing Shop\bin\System.Web.Http.dll
+F:\Zensar\Blazing Shop\bin\System.Web.Http.WebHost.dll
+F:\Zensar\Blazing Shop\bin\System.Net.Http.Formatting.xml
+F:\Zensar\Blazing Shop\bin\System.Web.Http.xml
+F:\Zensar\Blazing Shop\bin\System.Web.Http.WebHost.xml
+F:\Zensar\Blazing Shop\obj\Debug\Blazing_Shop.Migrations.empty1.resources
+E:\MVC Project team-1\Blazing Shop\bin\Blazing Shop.dll.config
+E:\MVC Project team-1\Blazing Shop\bin\Blazing Shop.dll
+E:\MVC Project team-1\Blazing Shop\bin\Blazing Shop.pdb
+E:\MVC Project team-1\Blazing Shop\bin\roslyn\csc.exe
+E:\MVC Project team-1\Blazing Shop\bin\roslyn\csc.exe.config
+E:\MVC Project team-1\Blazing Shop\bin\roslyn\csc.rsp
+E:\MVC Project team-1\Blazing Shop\bin\roslyn\csi.exe
+E:\MVC Project team-1\Blazing Shop\bin\roslyn\csi.exe.config
+E:\MVC Project team-1\Blazing Shop\bin\roslyn\csi.rsp
+E:\MVC Project team-1\Blazing Shop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MVC Project team-1\Blazing Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MVC Project team-1\Blazing Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\MVC Project team-1\Blazing Shop\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MVC Project team-1\Blazing Shop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\MVC Project team-1\Blazing Shop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MVC Project team-1\Blazing Shop\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MVC Project team-1\Blazing Shop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\MVC Project team-1\Blazing Shop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\MVC Project team-1\Blazing Shop\bin\roslyn\Microsoft.Managed.Core.targets
+E:\MVC Project team-1\Blazing Shop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MVC Project team-1\Blazing Shop\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\MVC Project team-1\Blazing Shop\bin\roslyn\System.AppContext.dll
+E:\MVC Project team-1\Blazing Shop\bin\roslyn\System.Collections.Immutable.dll
+E:\MVC Project team-1\Blazing Shop\bin\roslyn\System.Console.dll
+E:\MVC Project team-1\Blazing Shop\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\MVC Project team-1\Blazing Shop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\MVC Project team-1\Blazing Shop\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\MVC Project team-1\Blazing Shop\bin\roslyn\System.Globalization.Calendars.dll
+E:\MVC Project team-1\Blazing Shop\bin\roslyn\System.IO.Compression.dll
+E:\MVC Project team-1\Blazing Shop\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\MVC Project team-1\Blazing Shop\bin\roslyn\System.IO.FileSystem.dll
+E:\MVC Project team-1\Blazing Shop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\MVC Project team-1\Blazing Shop\bin\roslyn\System.Net.Http.dll
+E:\MVC Project team-1\Blazing Shop\bin\roslyn\System.Net.Sockets.dll
+E:\MVC Project team-1\Blazing Shop\bin\roslyn\System.Reflection.Metadata.dll
+E:\MVC Project team-1\Blazing Shop\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\MVC Project team-1\Blazing Shop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\MVC Project team-1\Blazing Shop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\MVC Project team-1\Blazing Shop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\MVC Project team-1\Blazing Shop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\MVC Project team-1\Blazing Shop\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\MVC Project team-1\Blazing Shop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\MVC Project team-1\Blazing Shop\bin\roslyn\System.ValueTuple.dll
+E:\MVC Project team-1\Blazing Shop\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\MVC Project team-1\Blazing Shop\bin\roslyn\System.Xml.XmlDocument.dll
+E:\MVC Project team-1\Blazing Shop\bin\roslyn\System.Xml.XPath.dll
+E:\MVC Project team-1\Blazing Shop\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\MVC Project team-1\Blazing Shop\bin\roslyn\vbc.exe
+E:\MVC Project team-1\Blazing Shop\bin\roslyn\vbc.exe.config
+E:\MVC Project team-1\Blazing Shop\bin\roslyn\vbc.rsp
+E:\MVC Project team-1\Blazing Shop\bin\roslyn\VBCSCompiler.exe
+E:\MVC Project team-1\Blazing Shop\bin\roslyn\VBCSCompiler.exe.config
+E:\MVC Project team-1\Blazing Shop\bin\Antlr3.Runtime.dll
+E:\MVC Project team-1\Blazing Shop\bin\EntityFramework.dll
+E:\MVC Project team-1\Blazing Shop\bin\EntityFramework.SqlServer.dll
+E:\MVC Project team-1\Blazing Shop\bin\Microsoft.AspNet.Identity.Core.dll
+E:\MVC Project team-1\Blazing Shop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\MVC Project team-1\Blazing Shop\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\MVC Project team-1\Blazing Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MVC Project team-1\Blazing Shop\bin\Microsoft.Owin.dll
+E:\MVC Project team-1\Blazing Shop\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\MVC Project team-1\Blazing Shop\bin\Microsoft.Owin.Security.Cookies.dll
+E:\MVC Project team-1\Blazing Shop\bin\Microsoft.Owin.Security.dll
+E:\MVC Project team-1\Blazing Shop\bin\Microsoft.Owin.Security.Facebook.dll
+E:\MVC Project team-1\Blazing Shop\bin\Microsoft.Owin.Security.Google.dll
+E:\MVC Project team-1\Blazing Shop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\MVC Project team-1\Blazing Shop\bin\Microsoft.Owin.Security.OAuth.dll
+E:\MVC Project team-1\Blazing Shop\bin\Microsoft.Owin.Security.Twitter.dll
+E:\MVC Project team-1\Blazing Shop\bin\Microsoft.Web.Infrastructure.dll
+E:\MVC Project team-1\Blazing Shop\bin\Newtonsoft.Json.dll
+E:\MVC Project team-1\Blazing Shop\bin\Owin.dll
+E:\MVC Project team-1\Blazing Shop\bin\System.Net.Http.Formatting.dll
+E:\MVC Project team-1\Blazing Shop\bin\System.Web.Helpers.dll
+E:\MVC Project team-1\Blazing Shop\bin\System.Web.Http.dll
+E:\MVC Project team-1\Blazing Shop\bin\System.Web.Http.WebHost.dll
+E:\MVC Project team-1\Blazing Shop\bin\System.Web.Mvc.dll
+E:\MVC Project team-1\Blazing Shop\bin\System.Web.Optimization.dll
+E:\MVC Project team-1\Blazing Shop\bin\System.Web.Razor.dll
+E:\MVC Project team-1\Blazing Shop\bin\System.Web.WebPages.Deployment.dll
+E:\MVC Project team-1\Blazing Shop\bin\System.Web.WebPages.dll
+E:\MVC Project team-1\Blazing Shop\bin\System.Web.WebPages.Razor.dll
+E:\MVC Project team-1\Blazing Shop\bin\WebGrease.dll
+E:\MVC Project team-1\Blazing Shop\bin\System.Net.Http.Formatting.xml
+E:\MVC Project team-1\Blazing Shop\bin\System.Web.Http.xml
+E:\MVC Project team-1\Blazing Shop\bin\System.Web.Http.WebHost.xml
+E:\MVC Project team-1\Blazing Shop\bin\System.Web.Helpers.xml
+E:\MVC Project team-1\Blazing Shop\bin\System.Web.Mvc.xml
+E:\MVC Project team-1\Blazing Shop\bin\System.Web.Optimization.xml
+E:\MVC Project team-1\Blazing Shop\bin\System.Web.Razor.xml
+E:\MVC Project team-1\Blazing Shop\bin\System.Web.WebPages.xml
+E:\MVC Project team-1\Blazing Shop\bin\System.Web.WebPages.Deployment.xml
+E:\MVC Project team-1\Blazing Shop\bin\System.Web.WebPages.Razor.xml
+E:\MVC Project team-1\Blazing Shop\bin\Newtonsoft.Json.xml
+E:\MVC Project team-1\Blazing Shop\bin\Antlr3.Runtime.pdb
+E:\MVC Project team-1\Blazing Shop\bin\EntityFramework.xml
+E:\MVC Project team-1\Blazing Shop\bin\EntityFramework.SqlServer.xml
+E:\MVC Project team-1\Blazing Shop\bin\Microsoft.AspNet.Identity.Core.xml
+E:\MVC Project team-1\Blazing Shop\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\MVC Project team-1\Blazing Shop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\MVC Project team-1\Blazing Shop\bin\Microsoft.Owin.xml
+E:\MVC Project team-1\Blazing Shop\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\MVC Project team-1\Blazing Shop\bin\Microsoft.Owin.Security.xml
+E:\MVC Project team-1\Blazing Shop\bin\Microsoft.Owin.Security.Facebook.xml
+E:\MVC Project team-1\Blazing Shop\bin\Microsoft.Owin.Security.Cookies.xml
+E:\MVC Project team-1\Blazing Shop\bin\Microsoft.Owin.Security.Google.xml
+E:\MVC Project team-1\Blazing Shop\bin\Microsoft.Owin.Security.Twitter.xml
+E:\MVC Project team-1\Blazing Shop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\MVC Project team-1\Blazing Shop\bin\Microsoft.Owin.Security.OAuth.xml
+E:\MVC Project team-1\Blazing Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MVC Project team-1\Blazing Shop\obj\Debug\Blazing Shop.csprojAssemblyReference.cache
+E:\MVC Project team-1\Blazing Shop\obj\Debug\Blazing_Shop.Migrations.addingcategory.resources
+E:\MVC Project team-1\Blazing Shop\obj\Debug\Blazing_Shop.Migrations.addingproducts.resources
+E:\MVC Project team-1\Blazing Shop\obj\Debug\Blazing_Shop.Migrations.addingproductss.resources
+E:\MVC Project team-1\Blazing Shop\obj\Debug\Blazing_Shop.Migrations.addingproductsss.resources
+E:\MVC Project team-1\Blazing Shop\obj\Debug\Blazing_Shop.Migrations.addAppointment.resources
+E:\MVC Project team-1\Blazing Shop\obj\Debug\Blazing_Shop.Migrations.empty.resources
+E:\MVC Project team-1\Blazing Shop\obj\Debug\Blazing_Shop.Migrations.empty1.resources
+E:\MVC Project team-1\Blazing Shop\obj\Debug\Blazing Shop.csproj.GenerateResource.cache
+E:\MVC Project team-1\Blazing Shop\obj\Debug\Blazing Shop.csproj.CoreCompileInputs.cache
+E:\MVC Project team-1\Blazing Shop\obj\Debug\Blazing Shop.csproj.CopyComplete
+E:\MVC Project team-1\Blazing Shop\obj\Debug\Blazing Shop.dll
+E:\MVC Project team-1\Blazing Shop\obj\Debug\Blazing Shop.pdb
+E:\Project Backup\Blazing Shop\bin\Blazing Shop.dll.config
+E:\Project Backup\Blazing Shop\bin\Blazing Shop.dll
+E:\Project Backup\Blazing Shop\bin\Blazing Shop.pdb
+E:\Project Backup\Blazing Shop\bin\roslyn\csc.exe
+E:\Project Backup\Blazing Shop\bin\roslyn\csc.exe.config
+E:\Project Backup\Blazing Shop\bin\roslyn\csc.rsp
+E:\Project Backup\Blazing Shop\bin\roslyn\csi.exe
+E:\Project Backup\Blazing Shop\bin\roslyn\csi.exe.config
+E:\Project Backup\Blazing Shop\bin\roslyn\csi.rsp
+E:\Project Backup\Blazing Shop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Project Backup\Blazing Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Project Backup\Blazing Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Project Backup\Blazing Shop\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Project Backup\Blazing Shop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Project Backup\Blazing Shop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Project Backup\Blazing Shop\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Project Backup\Blazing Shop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Project Backup\Blazing Shop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Project Backup\Blazing Shop\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Project Backup\Blazing Shop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Project Backup\Blazing Shop\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Project Backup\Blazing Shop\bin\roslyn\System.AppContext.dll
+E:\Project Backup\Blazing Shop\bin\roslyn\System.Collections.Immutable.dll
+E:\Project Backup\Blazing Shop\bin\roslyn\System.Console.dll
+E:\Project Backup\Blazing Shop\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Project Backup\Blazing Shop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Project Backup\Blazing Shop\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Project Backup\Blazing Shop\bin\roslyn\System.Globalization.Calendars.dll
+E:\Project Backup\Blazing Shop\bin\roslyn\System.IO.Compression.dll
+E:\Project Backup\Blazing Shop\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Project Backup\Blazing Shop\bin\roslyn\System.IO.FileSystem.dll
+E:\Project Backup\Blazing Shop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Project Backup\Blazing Shop\bin\roslyn\System.Net.Http.dll
+E:\Project Backup\Blazing Shop\bin\roslyn\System.Net.Sockets.dll
+E:\Project Backup\Blazing Shop\bin\roslyn\System.Reflection.Metadata.dll
+E:\Project Backup\Blazing Shop\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Project Backup\Blazing Shop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Project Backup\Blazing Shop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Project Backup\Blazing Shop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Project Backup\Blazing Shop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Project Backup\Blazing Shop\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Project Backup\Blazing Shop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Project Backup\Blazing Shop\bin\roslyn\System.ValueTuple.dll
+E:\Project Backup\Blazing Shop\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Project Backup\Blazing Shop\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Project Backup\Blazing Shop\bin\roslyn\System.Xml.XPath.dll
+E:\Project Backup\Blazing Shop\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Project Backup\Blazing Shop\bin\roslyn\vbc.exe
+E:\Project Backup\Blazing Shop\bin\roslyn\vbc.exe.config
+E:\Project Backup\Blazing Shop\bin\roslyn\vbc.rsp
+E:\Project Backup\Blazing Shop\bin\roslyn\VBCSCompiler.exe
+E:\Project Backup\Blazing Shop\bin\roslyn\VBCSCompiler.exe.config
+E:\Project Backup\Blazing Shop\bin\Antlr3.Runtime.dll
+E:\Project Backup\Blazing Shop\bin\EntityFramework.dll
+E:\Project Backup\Blazing Shop\bin\EntityFramework.SqlServer.dll
+E:\Project Backup\Blazing Shop\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Project Backup\Blazing Shop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Project Backup\Blazing Shop\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Project Backup\Blazing Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Project Backup\Blazing Shop\bin\Microsoft.Owin.dll
+E:\Project Backup\Blazing Shop\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Project Backup\Blazing Shop\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Project Backup\Blazing Shop\bin\Microsoft.Owin.Security.dll
+E:\Project Backup\Blazing Shop\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Project Backup\Blazing Shop\bin\Microsoft.Owin.Security.Google.dll
+E:\Project Backup\Blazing Shop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Project Backup\Blazing Shop\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Project Backup\Blazing Shop\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Project Backup\Blazing Shop\bin\Microsoft.Web.Infrastructure.dll
+E:\Project Backup\Blazing Shop\bin\Newtonsoft.Json.dll
+E:\Project Backup\Blazing Shop\bin\Owin.dll
+E:\Project Backup\Blazing Shop\bin\System.Net.Http.Formatting.dll
+E:\Project Backup\Blazing Shop\bin\System.Web.Helpers.dll
+E:\Project Backup\Blazing Shop\bin\System.Web.Http.dll
+E:\Project Backup\Blazing Shop\bin\System.Web.Http.WebHost.dll
+E:\Project Backup\Blazing Shop\bin\System.Web.Mvc.dll
+E:\Project Backup\Blazing Shop\bin\System.Web.Optimization.dll
+E:\Project Backup\Blazing Shop\bin\System.Web.Razor.dll
+E:\Project Backup\Blazing Shop\bin\System.Web.WebPages.Deployment.dll
+E:\Project Backup\Blazing Shop\bin\System.Web.WebPages.dll
+E:\Project Backup\Blazing Shop\bin\System.Web.WebPages.Razor.dll
+E:\Project Backup\Blazing Shop\bin\WebGrease.dll
+E:\Project Backup\Blazing Shop\bin\System.Net.Http.Formatting.xml
+E:\Project Backup\Blazing Shop\bin\System.Web.Http.xml
+E:\Project Backup\Blazing Shop\bin\System.Web.Http.WebHost.xml
+E:\Project Backup\Blazing Shop\bin\System.Web.Helpers.xml
+E:\Project Backup\Blazing Shop\bin\System.Web.Mvc.xml
+E:\Project Backup\Blazing Shop\bin\System.Web.Optimization.xml
+E:\Project Backup\Blazing Shop\bin\System.Web.Razor.xml
+E:\Project Backup\Blazing Shop\bin\System.Web.WebPages.xml
+E:\Project Backup\Blazing Shop\bin\System.Web.WebPages.Deployment.xml
+E:\Project Backup\Blazing Shop\bin\System.Web.WebPages.Razor.xml
+E:\Project Backup\Blazing Shop\bin\Newtonsoft.Json.xml
+E:\Project Backup\Blazing Shop\bin\Antlr3.Runtime.pdb
+E:\Project Backup\Blazing Shop\bin\EntityFramework.xml
+E:\Project Backup\Blazing Shop\bin\EntityFramework.SqlServer.xml
+E:\Project Backup\Blazing Shop\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Project Backup\Blazing Shop\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Project Backup\Blazing Shop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Project Backup\Blazing Shop\bin\Microsoft.Owin.xml
+E:\Project Backup\Blazing Shop\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Project Backup\Blazing Shop\bin\Microsoft.Owin.Security.xml
+E:\Project Backup\Blazing Shop\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Project Backup\Blazing Shop\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Project Backup\Blazing Shop\bin\Microsoft.Owin.Security.Google.xml
+E:\Project Backup\Blazing Shop\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Project Backup\Blazing Shop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Project Backup\Blazing Shop\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Project Backup\Blazing Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Project Backup\Blazing Shop\obj\Debug\Blazing Shop.csprojAssemblyReference.cache
+E:\Project Backup\Blazing Shop\obj\Debug\Blazing_Shop.Migrations.addingcategory.resources
+E:\Project Backup\Blazing Shop\obj\Debug\Blazing_Shop.Migrations.addingproducts.resources
+E:\Project Backup\Blazing Shop\obj\Debug\Blazing_Shop.Migrations.addingproductss.resources
+E:\Project Backup\Blazing Shop\obj\Debug\Blazing_Shop.Migrations.addingproductsss.resources
+E:\Project Backup\Blazing Shop\obj\Debug\Blazing_Shop.Migrations.addAppointment.resources
+E:\Project Backup\Blazing Shop\obj\Debug\Blazing_Shop.Migrations.empty.resources
+E:\Project Backup\Blazing Shop\obj\Debug\Blazing_Shop.Migrations.empty1.resources
+E:\Project Backup\Blazing Shop\obj\Debug\Blazing Shop.csproj.GenerateResource.cache
+E:\Project Backup\Blazing Shop\obj\Debug\Blazing Shop.csproj.CoreCompileInputs.cache
+E:\Project Backup\Blazing Shop\obj\Debug\Blazing Shop.csproj.CopyComplete
+E:\Project Backup\Blazing Shop\obj\Debug\Blazing Shop.dll
+E:\Project Backup\Blazing Shop\obj\Debug\Blazing Shop.pdb

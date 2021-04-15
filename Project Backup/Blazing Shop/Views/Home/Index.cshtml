@@ -1,0 +1,30 @@
+﻿@model IEnumerable<Blazing_Shop.Models.Product>
+@{
+    ViewBag.Title = "Home Page";
+}
+
+
+                <div class="container" style="margin-top:20px; margin-left:0;">
+
+                    <div class="row">
+
+                        @foreach (var i in Model)
+                        {
+
+                            <div class="col-4">
+                                <div class="card mb-3 shadow-sm justify-content-start">
+                                    <div class="card-header text-center justify-content-start text-info">@i.Name</div>
+                                   
+                                    <img src='/Product/RetrieveImage/@i.Id' class="card-img-top"/>
+                                    <div class="card-body d-flex justify-content-start align-items-center">
+                                        <p class="card-text text-danger " style="width:8rem;">@i.Price/Sq.Ft</p>
+
+                                        @Html.ActionLink("Details", "Details", "Product", new { id = i.Id }, new { @class = "btn btn-success" })
+
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    </div>
+                </div>
+          

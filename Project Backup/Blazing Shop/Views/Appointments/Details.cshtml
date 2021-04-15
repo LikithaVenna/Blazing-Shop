@@ -1,0 +1,63 @@
+﻿@model Blazing_Shop.Models.Appointment
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<div class="container contact-form">
+    <div class="contact-image">
+
+    </div>
+    <h3>Appointment Details</h3>
+    <div class="row">
+        <div class="col-md-6">
+            <div class="form-group">
+                <div class="row">
+                    <lable class="col-4">Full Name</lable>
+                    @Html.DisplayFor(model => model.PersonName)
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="row">
+                    <lable class="col-4">Email</lable>
+                    @Html.DisplayFor(model => model.Email)
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="row">
+                    <lable class="col-4">Date</lable>
+                    @Html.DisplayFor(model => model.Date)
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="row">
+                    <lable class="col-4">Phone Number</lable>
+                    @Html.DisplayFor(model => model.PhoneNumber)
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="row">
+                    <lable class="col-4">Confirmed</lable>
+                    @Html.CheckBoxFor(model => model.IsConfirmed, new { @disabled = "" })
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="row">
+                    <lable class="col-4">Product</lable>
+                    @Html.DisplayFor(model => model.Product.Name)
+                </div>
+            </div>
+
+
+        </div>
+        <div class="col-md-6">
+            <div class="form-group">
+                <img src='/Product/RetrieveImage/@Model.Product.Id' style="max-width:200px; max-height:200px;" />
+        </div>
+    </div>
+
+</div>
+    <p>
+        @Html.ActionLink("Delete", "Delete", new { id = Model.Id }, new { @class = "btn btn-danger" })
+        @Html.ActionLink("Back", "Index", null, new { @class = "btn btn-primary" })
+    </p>

@@ -1,0 +1,55 @@
+﻿
+@using Microsoft.AspNet.Identity
+<div class=" " style="background-image: linear-gradient(#1b0546, #66003B ); height: 100%; width: 100%;">
+    @if (Request.IsAuthenticated)
+    {
+    <div class="container" >
+        <aside class="side-nav">
+            <button class="btn btn-block" style="background-color: #364573;">
+                <ul class="nav">
+                    <li class="{% block navbar_class-home %}{% endblock %}">
+                        <a href="~/Home/Index"><i class="fa fa-home "></i> Home</a>
+                    </li>
+                </ul>
+            </button>
+            <button class="btn btn-block" style="background-color: #364573;">
+                <ul class="nav">
+                    <li class="{% block navbar_class-category %}{% endblock %}">
+                        <a href="~/Category/Index"><i class="fa fa-tasks"></i> Category</a>
+                    </li>
+                </ul>
+            </button>
+            <button class="btn btn-block" style="background-color: #364573;">
+                <ul class="nav">
+                    <li class="{% block navbar_class-products %}{% endblock %}">
+                        <a href="~/Product/Index"><i class="fa fa-tasks"></i> Products</a>
+                    </li>
+                </ul>
+            </button>
+            <button class="btn btn-block" style="background-color: #364573;">
+                <ul class="nav">
+                    <li class="{% block navbar_class-appointments %}{% endblock %}">
+                        <a href="~/Appointments/Index"><i class="fa fa-tasks"></i> Appointments</a>
+                    </li>
+                </ul>
+            </button>
+        </aside>
+    </div>
+    }
+    else
+    {
+<div class="container">
+    <aside class="side-nav">
+        <button class="btn btn-block" style="background-color: #364573;margin-left:inherit; margin-right:initial">
+            <ul class="nav">
+                <li class="{% block navbar_class-home %}{% endblock %}">
+                    <a href="~/Home/Index"><i class="fa fa-home "></i> Home</a>
+                </li>
+            </ul>
+        </button>
+    </aside>
+</div>
+
+    }
+</div>
+
